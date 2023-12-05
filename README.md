@@ -19,8 +19,8 @@ divertidas com meus amigos e comunidade Minecraft.
 
 
 ## Projetos
-- Mod de Minecraft (Magic Merchant) -> https://www.curseforge.com/minecraft/mc-mods/magic-merchant
-- Mod de Minecraft (Natural Resources) -> https://www.curseforge.com/minecraft/mc-mods/natural-resorces
+- Desenvolvimento do [Magic Merchant](https://www.curseforge.com/minecraft/mc-mods/magic-merchant)
+- Desenvolvimento do [Natural Resources](https://www.curseforge.com/minecraft/mc-mods/natural-resorces)
 
 ## Educação
 - **Análise e Desenvolvimento de Sistemas**
