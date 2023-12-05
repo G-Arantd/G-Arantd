@@ -1,7 +1,7 @@
 # SOBRE MIM
 
 ## Perfil
-Meu nome é Gabriel Arantd Felipe e como profissional de Análise e Desenvolvimento de Sistemas, meu expertise principal reside no desenvolvimento em Python.
+Meu nome é Gabriel Arantd Felipe e como estudante de Análise e Desenvolvimento de Sistemas, meu expertise principal reside no desenvolvimento em Python.
 Utilizo Flask para a construção eficiente de APIs e Pandas para manipulação de dados.
 
 Tenho familiaridade com React para desenvolvimento de interfaces dinâmicas em aplicações web.
