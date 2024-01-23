@@ -35,7 +35,7 @@ divertidas com meus amigos e comunidade Minecraft.
 ### Educação
 - **Análise e Desenvolvimento de Sistemas**
   - Cesul Centro Sulamericano de Ensino Superior
-  - Ano de Conclusão: 2025
+  - Ano de Conclusão: 2024
 
 ### Idiomas
   - Português BR (Nativo)
