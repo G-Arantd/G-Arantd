@@ -1,44 +1,66 @@
 # ABOUT ME
+Python and React Developer
+Dedicated problem solver and helper, I strive to learn and share my knowledge to assist others. I am always looking for new challenges and opportunities to grow as a developer.
 
-## Profile
-My name is Gabriel Arantd Felipe and as a student of Analysis and Systems Development, my main expertise lies in Python development.
-I use Flask for efficient API building and Pandas for data manipulation.
+# My Skills:
 
-I have intermediate knowledge of React for developing dynamic interfaces in web applications.
-Although my knowledge is intermediate, I am constantly learning to deal with more complex applications.
+## Python (Intermediate Advanced):
 
-In parallel, I learned the basics of Golang's functioning,
-where I learned concepts of ORM and OOP.
+- API Development with Flask: I create efficient and scalable APIs to meet your specific needs.
+- Data Manipulation with Pandas: I transform raw data into actionable insights with ease.
+- Authentication with OAuth: I implement robust security in your applications.
+- Object-Relational Mapping with SQLAlchemy: I integrate your data efficiently and organized.
+- Database Migration with Flask Migrate: I ensure safe and efficient migration of your data.
+- PostgreSQL Connectivity with Psycopg2: I access and manipulate your PostgreSQL data with expertise.
+- And much more: I am proficient in various Python libraries to cater to your specific needs.
 
-For data manipulation and visualization, I am a proponent of tools like Google Data Studio,
-which contribute to the creation of informative and intuitive dashboards.
+### Experience in:
+- Object-Oriented Programming: I create clean, reusable, and modular code.
+- Typing for Better Project Management: I ensure the quality and reliability of your code.
+- React (Intermediate Basic):
 
-For leisure, I enjoy playing Minecraft, dedicating part of my free time to creating experiences for the game.
-Whether developing Mods, Maps, Minigames, or other mechanics that contribute to the user experience.
-A way to use my creativity, resulting in unique and fun experiences with my friends and the Minecraft community.
+## Dynamic Web Interface Development: I create intuitive and responsive interfaces that provide a great user experience.
+- Styling Library Usage like Material UI: I implement interfaces with modern and professional design.
+- Under Development: I am deepening my knowledge to handle complex applications.
 
----
+## PostgreSQL (Intermediate Basic):
 
-## Projects
-- Development of [Magic Merchant](https://www.curseforge.com/minecraft/mc-mods/magic-merchant)
-- Development of [Natural Resources](https://www.curseforge.com/minecraft/mc-mods/natural-resorces)
-- Upcoming project: Herous Journey
+- SQL Queries: I extract valuable information from your databases with precision.
+- Database Administration: I ensure the performance and security of your data.
 
----
+## MongoDB (Basic):
 
-## More About Me
+- Document Structure: I understand and manipulate JSON documents with ease.
+- Basic Operations: I perform CRUD (Create, Read, Update, Delete) on your MongoDB data efficiently.
 
-### Languages and Technologies
-  - **Programming Languages:** Python, Golang, Java (Basic), JavaScript, TypeScript
-  - **Frameworks:** React, React Native, Flask
-  - **Databases:** SQLite, PostgreSQL, MongoDB
-  - **Specialized Knowledge:** API Development with Flask, use of SQLite and PostgreSQL.
+## Golang (Basic):
 
-### Education
-- **Analysis and Systems Development**
-  - Cesul Centro Sulamericano de Ensino Superior
-  - Year of Graduation: 2024
+- Learning: I am deepening my knowledge of Golang to expand my skills.
+- Language Concepts: I am mastering the fundamentals of the Golang language.
+- ORM Usage: I am learning to map objects to databases efficiently.
 
-### Languages
-  - Portuguese BR (Native)
-  - English (Intermediate)
+## Google Data Studio (Advanced):
+
+ - Informative and Intuitive Dashboard Creation: I transform your data into visual dashboards that facilitate decision making.
+ - Data Source Connectivity: I integrate data from various sources for a complete and accurate view.
+
+## Languages:
+
+- Portuguese (BR): Native
+- English: Intermediate
+
+## Projects:
+
+### Event Registration Management (Under Development):
+
+- Full-stack Development using Python and React: I am creating a complete system to manage event registrations efficiently and intuitively.
+- Features:
+- Event Registration
+- Participant Registration
+- Vacancy Control
+- Report Generation
+- Technologies used:
+- Python (Flask, SQLAlchemy)
+- React (Material UI)
+- PostgreSQL
+With my enthusiasm for learning and my constantly improving skills, I am ready to contribute to your projects and exceed your expectations.
