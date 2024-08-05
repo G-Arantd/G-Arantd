@@ -41,5 +41,5 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=G-Arantd&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="G-Arantd's Stats" style="display: inline-block; vertical-align: top; width: 49%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-Arantd&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" style="display: inline-block; vertical-align: top; width: 37%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloud-dfe&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" style="display: inline-block; vertical-align: top; width: 37%;" />
 </div>
