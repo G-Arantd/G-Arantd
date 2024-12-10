@@ -1,8 +1,8 @@
 <h1 align="left">About Me</h1>
 
-- I am a backend developer with a deep knowledge of frontend, but my main focus is on backend, which is where I really enjoy working.
-- I am studying Systems Analysis and Development at Faculdade Cesul.
-- I like games that explore the player's creativity.
+-I am a backend developer with solid knowledge in Python and currently improving my skills in Golang. I work at a company specializing in fiscal document issuance, where I act in the integration support area, assisting other developers in integrating their systems with the company's API and contributing to process improvements.
+-I have experience developing SDKs and libraries that streamline and simplify the integration process, always adhering to the company’s business rules and standards. This role has provided me with practical knowledge in various programming languages and system integrations.
+-I am a recent graduate in Systems Analysis and Software Development and continuously seek to improve my skills to add value to new projects.
 
 <h2 align="left">Technical Skills :</h2>
 
